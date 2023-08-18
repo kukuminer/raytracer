@@ -25,3 +25,6 @@ see sample.txt for formatting:
 - AMBIENT defines ambient lighting
 - OUTPUT defines the output file name
 
+# samples:
+![sample.txt rendered](https://raw.githubusercontent.com/kukuminer/raytracer/main/samples/sample.png)
+![whale.txt rendered](https://raw.githubusercontent.com/kukuminer/raytracer/main/samples/whale.png)
