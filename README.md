@@ -6,7 +6,9 @@ C++ Raytracer using GLM library
 
 # to run:
 `./main sample.txt`
+
 output will be in `sample.ppm`
+
 to view ppm file, use a vscode extension or photoshop or an online viewer
 
 # output:
