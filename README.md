@@ -1,3 +1,7 @@
+# samples:
+![sample.txt rendered](https://raw.githubusercontent.com/kukuminer/raytracer/main/samples/sample.png)
+![whale.txt rendered](https://raw.githubusercontent.com/kukuminer/raytracer/main/samples/whale.png)
+
 # raytracer
 C++ Raytracer using GLM library
 
@@ -24,7 +28,3 @@ see sample.txt for formatting:
 - BACK defines the background colour
 - AMBIENT defines ambient lighting
 - OUTPUT defines the output file name
-
-# samples:
-![sample.txt rendered](https://raw.githubusercontent.com/kukuminer/raytracer/main/samples/sample.png)
-![whale.txt rendered](https://raw.githubusercontent.com/kukuminer/raytracer/main/samples/whale.png)
